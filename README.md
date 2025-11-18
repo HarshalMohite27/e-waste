@@ -22,7 +22,7 @@ This project aims to encourage users to handle e-waste responsibly and protect t
 
 # How to View
 Visit the live demo:  
-👉 [https://yourusername.github.io/ewaste/](https://yourusername.github.io/ewaste/)  
+https://harshalmohite27.github.io/e-waste/
 
 ---
 
